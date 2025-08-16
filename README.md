@@ -6,3 +6,4 @@
 - [SONAR: Sentence-Level Multimodal and Language-Agnostic Representations](https://ai.meta.com/research/publications/sonar-sentence-level-multimodal-and-language-agnostic-representations/)
 - [Unveiling the intensity–ambiguity relationships among affective and lexico‑semantic variables in Chinese characters and the character–word relationships in Chinese two‑character words](https://link.springer.com/article/10.3758/s13428-025-02753-9)
 - [A survey on cutting-edge relation extraction techniques based on language models](https://link.springer.com/article/10.1007/s10462-025-11280-0)
+- [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
