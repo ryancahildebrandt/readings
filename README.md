@@ -1,6 +1,6 @@
 # Recently Read
 
-*Papers/articles I've read and want to keep track of for future reference*
+*Papers/articles I've read and want to keep track of for future reference. Papers  listed in my awesome_slop repo are not duplicated here*
 
 - [Do you actually need an LLM? Rethinking language models for customer reviews analysis](https://link.springer.com/article/10.1007/s10462-025-11308-5)
 - [SONAR: Sentence-Level Multimodal and Language-Agnostic Representations](https://ai.meta.com/research/publications/sonar-sentence-level-multimodal-and-language-agnostic-representations/)
