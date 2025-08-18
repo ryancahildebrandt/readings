@@ -11,3 +11,4 @@
 - [A survey on cutting-edge relation extraction techniques based on language models](https://link.springer.com/article/10.1007/s10462-025-11280-0)
 - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 - [Diffusion models in text generation: a survey](https://pmc.ncbi.nlm.nih.gov/articles/PMC10909201/)
+- [Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting](https://ojs.aaai.org/index.php/AAAI/article/view/29770)
