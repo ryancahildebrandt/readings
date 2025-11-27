@@ -45,3 +45,4 @@
 - [Measuring Research Difficulty in Academic Papers: A Case Study in Natural Language Processing](https://www.sciencedirect.com/science/article/pii/S2694610625000396?dgcid=rss_sd_all)
 - [Text clustering with large language model embeddings](https://www.sciencedirect.com/science/article/pii/S2666307424000482?dgcid=rss_sd_all)
 - [A novel region based neighbors searching classification algorithm for big data](https://www.sciencedirect.com/science/article/pii/S2666307425000269?dgcid=rss_sd_all)
+- [Continuous Thought Machines](https://arxiv.org/abs/2505.05522)
