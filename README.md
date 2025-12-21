@@ -46,3 +46,4 @@
 - [Text clustering with large language model embeddings](https://www.sciencedirect.com/science/article/pii/S2666307424000482?dgcid=rss_sd_all)
 - [A novel region based neighbors searching classification algorithm for big data](https://www.sciencedirect.com/science/article/pii/S2666307425000269?dgcid=rss_sd_all)
 - [Continuous Thought Machines](https://arxiv.org/abs/2505.05522)
+- [Text Embeddings Reveal (Almost) As Much As Text](https://aclanthology.org/2023.emnlp-main.765/)
