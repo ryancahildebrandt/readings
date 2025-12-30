@@ -47,3 +47,7 @@
 - [A novel region based neighbors searching classification algorithm for big data](https://www.sciencedirect.com/science/article/pii/S2666307425000269?dgcid=rss_sd_all)
 - [Continuous Thought Machines](https://arxiv.org/abs/2505.05522)
 - [Text Embeddings Reveal (Almost) As Much As Text](https://aclanthology.org/2023.emnlp-main.765/)
+- [Spherical Text Embedding](https://proceedings.neurips.cc/paper/2019/hash/043ab21fc5a1607b381ac3896176dac6-Abstract.html)
+- [LLM Internal States Reveal Hallucination Risk Faced With a Query](https://arxiv.org/abs/2407.03282)
+- [TQC: An intelligent clustering approach for large-scale, noisy, and imbalanced data](https://doi.org/10.1016/j.mlwa.2025.100800)
+- [What Are "Good" Rhythms? Generating Rhythms Based on the Properties Set Out in The Geometry of Musical Rhythm](https://hal.science/hal-04579586)
