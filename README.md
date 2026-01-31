@@ -58,3 +58,4 @@
 - [Thought Anchors: Which LLM Reasoning Steps Matter?](https://arxiv.org/abs/2506.19143)
 - [Catastrophic Failure of LLM Unlearning via Quantization](https://arxiv.org/abs/2410.16454)
 - [Estimating the reproducibility of psychological science](https://doi.org/10.1126/science.aac4716)
+- [Text Data Augmentation for Large Language Models: A Comprehensive Survey of Methods, Challenges, and Opportunities](https://arxiv.org/abs/2501.18845)
