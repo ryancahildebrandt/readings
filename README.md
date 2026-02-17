@@ -69,3 +69,7 @@
 - [Evaluating the impact of word embeddings on similarity scoring in practical information retrieval](https://arxiv.org/abs/2602.05734)
 - [Bagging-Based Model Merging for Robust General Text Embeddings](https://arxiv.org/abs/2602.05787)
 - [CSRv2: Unlocking Ultra-Sparse Embeddings](https://arxiv.org/abs/2602.05735)
+- [Investigating the structure of emotions by analyzing similarity and association of emotion words](https://arxiv.org/abs/2602.06430)
+- [Non-negative matrix factorization algorithms generally improve topic model fits](https://arxiv.org/abs/2105.13440)
+- [Summaries as Centroids for Interpretable and Scalable Text Clustering](https://arxiv.org/abs/2502.09667)
+- [The Data-Quality Illusion: Rethinking Classifier-Based Quality Filtering for LLM Pretraining](https://arxiv.org/abs/2510.00866)
