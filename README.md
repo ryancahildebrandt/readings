@@ -73,3 +73,6 @@
 - [Non-negative matrix factorization algorithms generally improve topic model fits](https://arxiv.org/abs/2105.13440)
 - [Summaries as Centroids for Interpretable and Scalable Text Clustering](https://arxiv.org/abs/2502.09667)
 - [The Data-Quality Illusion: Rethinking Classifier-Based Quality Filtering for LLM Pretraining](https://arxiv.org/abs/2510.00866)
+- [Reducing labeled data requirements in text classification with active learning and BERT-based transformers](https://link.springer.com/article/10.1007/s00521-025-11756-8)
+- [Transformers can do Bayesian Clustering](https://arxiv.org/abs/2510.24318)
+- [Symmetry in language statistics shapes the geometry of model representations](https://arxiv.org/abs/2602.15029)
