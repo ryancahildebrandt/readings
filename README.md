@@ -76,3 +76,4 @@
 - [Reducing labeled data requirements in text classification with active learning and BERT-based transformers](https://link.springer.com/article/10.1007/s00521-025-11756-8)
 - [Transformers can do Bayesian Clustering](https://arxiv.org/abs/2510.24318)
 - [Symmetry in language statistics shapes the geometry of model representations](https://arxiv.org/abs/2602.15029)
+- [Incremental Graph Construction Enables Robust Spectral Clustering of Texts](https://arxiv.org/abs/2603.03056)
