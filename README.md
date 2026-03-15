@@ -78,3 +78,4 @@
 - [Symmetry in language statistics shapes the geometry of model representations](https://arxiv.org/abs/2602.15029)
 - [Incremental Graph Construction Enables Robust Spectral Clustering of Texts](https://arxiv.org/abs/2603.03056)
 - [LLM2Vec-Gen: Generative Embeddings from Large Language Models](https://arxiv.org/abs/2603.10913)
+- [A comparative empirical evaluation of semantic clustering algorithms on static word embeddings](https://doi.org/10.1016/j.jjimei.2026.100396)
