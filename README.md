@@ -79,3 +79,6 @@
 - [Incremental Graph Construction Enables Robust Spectral Clustering of Texts](https://arxiv.org/abs/2603.03056)
 - [LLM2Vec-Gen: Generative Embeddings from Large Language Models](https://arxiv.org/abs/2603.10913)
 - [A comparative empirical evaluation of semantic clustering algorithms on static word embeddings](https://doi.org/10.1016/j.jjimei.2026.100396)
+- [Text clustering with large language model embeddings](https://doi.org/10.1016/j.ijcce.2024.11.004)
+- [Semantic Shift: the Fundamental Challenge in Text Embedding and Retrieval](https://arxiv.org/abs/2603.21437)
+- [Support Tokens, Stability Margins, and a New Foundation for Robust LLMs](https://arxiv.org/abs/2602.22271)
