@@ -82,3 +82,4 @@
 - [Text clustering with large language model embeddings](https://doi.org/10.1016/j.ijcce.2024.11.004)
 - [Semantic Shift: the Fundamental Challenge in Text Embedding and Retrieval](https://arxiv.org/abs/2603.21437)
 - [Support Tokens, Stability Margins, and a New Foundation for Robust LLMs](https://arxiv.org/abs/2602.22271)
+- [Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem](https://arxiv.org/abs/2205.01954)
