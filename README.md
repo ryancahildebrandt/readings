@@ -83,3 +83,4 @@
 - [Semantic Shift: the Fundamental Challenge in Text Embedding and Retrieval](https://arxiv.org/abs/2603.21437)
 - [Support Tokens, Stability Margins, and a New Foundation for Robust LLMs](https://arxiv.org/abs/2602.22271)
 - [Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem](https://arxiv.org/abs/2205.01954)
+- [ConstellationNet: Reinventing Spatial Clustering through GNNs](https://arxiv.org/abs/2503.07643)
