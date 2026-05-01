@@ -86,3 +86,4 @@
 - [ConstellationNet: Reinventing Spatial Clustering through GNNs](https://arxiv.org/abs/2503.07643)
 - [A Quantitative Definition of Intelligence](https://arxiv.org/abs/2604.10873)
 - [NUBO: A Transparent Python Package for Bayesian Optimization](https://arxiv.org/abs/2305.06709)
+- [Weighted Automata in Text and Speech Processing](https://arxiv.org/abs/cs/0503077)
