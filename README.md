@@ -87,3 +87,5 @@
 - [A Quantitative Definition of Intelligence](https://arxiv.org/abs/2604.10873)
 - [NUBO: A Transparent Python Package for Bayesian Optimization](https://arxiv.org/abs/2305.06709)
 - [Weighted Automata in Text and Speech Processing](https://arxiv.org/abs/cs/0503077)
+- [Clause Types and Speech Act Functions](https://doi.org/10.1093/oxfordhb/9780198755104.013.20)
+- [Topic Is Not Agenda: A Citation-Community Audit of Text Embeddings](https://arxiv.org/abs/2605.07158)
