@@ -1,9 +1,9 @@
 # Recently Read
 
-*Papers/articles I've read and want to keep track of for future reference. Papers listed in my awesome_slop repo are not duplicated here*
+_Papers/articles I've read and want to keep track of for future reference.
+Papers listed in my awesome_slop repo are not duplicated here_
 
-[![This project contains 0% LLM-generated content](https://brainmade.org/88x31-dark.png)](https://brainmade.org/)
-----
+## [![This project contains 0% LLM-generated content](https://brainmade.org/88x31-dark.png)](https://brainmade.org/)
 
 - [Do you actually need an LLM? Rethinking language models for customer reviews analysis](https://link.springer.com/article/10.1007/s10462-025-11308-5)
 - [SONAR: Sentence-Level Multimodal and Language-Agnostic Representations](https://ai.meta.com/research/publications/sonar-sentence-level-multimodal-and-language-agnostic-representations/)
@@ -89,3 +89,7 @@
 - [Weighted Automata in Text and Speech Processing](https://arxiv.org/abs/cs/0503077)
 - [Clause Types and Speech Act Functions](https://doi.org/10.1093/oxfordhb/9780198755104.013.20)
 - [Topic Is Not Agenda: A Citation-Community Audit of Text Embeddings](https://arxiv.org/abs/2605.07158)
+- [From Word to Sentence Embedding and beyond: Bridging the Gap in Text Representation Survey](https://doi.org/10.1016/j.nlp.2026.100214)
+- [The Harder Text Embedding Benchmark (HTEB): Beyond One-dimensional Static Robustness](https://arxiv.org/abs/2605.28190)
+- [Position: Text Embeddings Should Capture Implicit Semantics, Not Just Surface Meaning](https://arxiv.org/abs/2506.08354)
+- [CLUBench: A Clustering Benchmark](https://arxiv.org/abs/2605.29933)
