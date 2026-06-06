@@ -93,3 +93,4 @@ Papers listed in my awesome_slop repo are not duplicated here_
 - [The Harder Text Embedding Benchmark (HTEB): Beyond One-dimensional Static Robustness](https://arxiv.org/abs/2605.28190)
 - [Position: Text Embeddings Should Capture Implicit Semantics, Not Just Surface Meaning](https://arxiv.org/abs/2506.08354)
 - [CLUBench: A Clustering Benchmark](https://arxiv.org/abs/2605.29933)
+- [How can embedding models bind concepts?](https://arxiv.org/abs/2605.31503)
