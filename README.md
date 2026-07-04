@@ -94,3 +94,4 @@ Papers listed in my awesome_slop repo are not duplicated here_
 - [Position: Text Embeddings Should Capture Implicit Semantics, Not Just Surface Meaning](https://arxiv.org/abs/2506.08354)
 - [CLUBench: A Clustering Benchmark](https://arxiv.org/abs/2605.29933)
 - [How can embedding models bind concepts?](https://arxiv.org/abs/2605.31503)
+- [BitNet Text Embeddings](https://arxiv.org/abs/2606.25674)
