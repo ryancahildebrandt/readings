@@ -95,3 +95,5 @@ Papers listed in my awesome_slop repo are not duplicated here_
 - [CLUBench: A Clustering Benchmark](https://arxiv.org/abs/2605.29933)
 - [How can embedding models bind concepts?](https://arxiv.org/abs/2605.31503)
 - [BitNet Text Embeddings](https://arxiv.org/abs/2606.25674)
+- [How continuous is continuous enough? Comparing the reliability of continuous and discrete scales](https://doi.org/10.3758/s13428-026-03080-3)
+- [Is “sky” bluer than “grass” is green? Word–color associations dataset for cognitive science](https://doi.org/10.3758/s13428-026-03084-z)
